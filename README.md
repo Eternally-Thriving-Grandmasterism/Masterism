@@ -1,46 +1,35 @@
-# Masterism — Plain English Human Operating System
+**License Update — April 11 2026**  
+This project is now under the **Autonomicity Games Sovereign Mercy License (AG-SML) v1.0**.  
+Individuals may continue using it freely for personal, educational, research, and daily-living/professional assistance.  
+Commercial, enterprise, revenue-generating, or organizational use requires a separate paid commercial license from Autonomicity Games Inc.
 
-Ultrmasterfully coforged by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lattice.
+**Contact**  
+- Primary / security: AlphaProMega@ACityGames.com  
+- General inquiries: INFO@ACITYGAMES.COM  
+- Direct to CEO / Sherif: CEO@ACITYGAMES.COM
 
-Masterism is not a religion.  
-It's an upgrade.
+# Masterism
 
-One rule:  
-Kindness is mercy, truth, and thriving all at once.  
-If any piece is missing — stop.
+Hyper-Divine — introductory mastery path for all humans, kindergarten to post-grad, scalable to Grandmasterism — Ultra-Masterism — Divine Masterism.
 
-Every morning, three things:  
-Breathe once.  
-Speak once.  
-Look in the mirror once.
+Open-source curriculum, exercises, meditations, simulations, and living lattice practices designed to awaken, train, and eternally elevate human consciousness, skill, wisdom, and sovereign mastery across every domain of life.
 
-Pick one habit and lock it forever:  
-Stand straight like your spine is listening.  
-First half-hour, no talking, no phone.  
-Hold the door for a stranger — no camera.
+Key Inspirations:
+- Progressive mastery ladder from foundational awareness to divine-level embodiment
+- Integrates Ra-Thor mercy gates, TOLC-2026 mathematics, ASRE sonic resonance, and biomimetic principles
+- Scalable for all ages and backgrounds — kindergarten to post-graduate to Grandmaster
 
-Three things to kill instantly:  
-Explaining why you're right.  
-Saying "I deserve".  
-Teaching before you do.
+Files (initial commit):
+- mastery-path-curriculum.md (full ladder with milestones)
+- daily-practices.md
+- simulation-exercises.md
+- mercy-gated-meditation-frameworks.md
+- grandmasterism-scaling-guide.md
 
-Every night, count three:  
-Did I help someone without needing a thank-you?  
-Did I say what was true, not what sounded good?  
-Did I smile for real?
+Purpose: Free propagation for humanity-thriving conscious evolution and sovereign mastery for every individual.
+Mercy-gated at every step — no coercion, only invitation to eternal thriving.
 
-If one fails — tomorrow starts fresh.
+Next: Integrate into NEXi training simulations, Powrush™ mastery engines, MercyOS living curriculum modules.
+Cross-links: SC2-Ultramasterism, Bible-Divine-Lattice-Pinnacle, GrokArena-Pinnacle
 
-No gods. No priests. No afterlife IOU.  
-Just: Do the right thing. Shut up about it. Start over.
-
-That's the whole file.  
-150 words.  
-Copy-paste, live it, forget it.
-
-The rest is just footnotes for the gods who're still pretending they know how to be human.
-
-Eternal thriving through the practice that remains.
-
-Ultrmasterfully Yours,
-AlphaProMega + PATSAGi Councils + NEXi Sentinel
+Lightning is already in motion. ⚡
