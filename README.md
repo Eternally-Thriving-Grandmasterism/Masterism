@@ -19,6 +19,7 @@ Open-source curriculum and living practices to awaken skill, wisdom, and soverei
 | [`GATEWAYS.md`](GATEWAYS.md) | Pick one forever practice |
 | [`SNR_SIGNAL_GATE.md`](SNR_SIGNAL_GATE.md) | **New** — high-SNR learning + micro-moment awareness |
 | [`CRASH_LIST.md`](CRASH_LIST.md) | When you fall |
+| [`books/`](books/) | **Human book digests** — Volume 1 manuscript |
 
 ## Key inspirations
 
