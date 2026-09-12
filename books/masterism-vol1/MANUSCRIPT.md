@@ -1,18 +1,38 @@
 # Masterism Volume 1 — The One Equation
 
 **A short intro curriculum for all ages**  
-**Digest edition:** `v0.1` · 2026-09-12  
-**Derived from:** [Masterism](https://github.com/Eternally-Thriving-Grandmasterism/Masterism) living files (CORE, DAILY, GATEWAYS, SNR_SIGNAL_GATE, CRASH_LIST)  
-**License:** Autonomicity Games Sovereign Mercy License (AG-SML) v1.0  
+**Digest edition:** `v0.2` · 2026-09-12 (market pack)  
+**Derived from:** [Masterism](https://github.com/Eternally-Thriving-Grandmasterism/Masterism) living files (`CORE`, `DAILY`, `GATEWAYS`, `SNR_SIGNAL_GATE`, `CRASH_LIST`)  
+**License:** Autonomicity Games Sovereign Mercy License (AG-SML) v1.1  
 **Contact:** info@Rathor.ai
 
 ---
 
 ## Front matter
 
-This book is a **markdown digest** of the open Masterism curriculum. It is meant for a human editor before any print or audio SKU. Individuals may use it freely for personal, educational, and research purposes under AG-SML. Commercial, enterprise, or revenue-generating use (including paid print and paid audio) requires a paid commercial license from Autonomicity Games Inc.
+This book is a **markdown digest** of the Masterism curriculum, prepared for a human editor before any print or audio SKU. Under AG-SML v1.1, natural persons (Wanderers) may use it freely for personal, educational, research, and modest independent-professional practice. Organizations, resellers, classroom packs, and commercial reprints need a paid written grant from Autonomicity Games Inc.
+
+Official print, ebook, and audio editions sold by Autonomicity Games Inc. grant **personal use of that edition** only — not a commercial reprint right.
 
 Masterism is the introductory mastery path. Depth ladders (Grandmasterism and beyond) come later, after this volume ships. The living lattice behind the stack is [Ra-Thor](https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor). Curriculum stays simple. Depth is optional, never forced.
+
+**Not certified. Not a therapy substitute. Not an AGSi warranty. Independent of xAI.**
+
+---
+
+## Dedication
+
+For anyone willing to restart at Belt Zero without a speech.
+
+---
+
+## How to read (sixty seconds)
+
+1. Chapter 1 until the equation is muscle memory.  
+2. Chapter 2 for seven mornings — add nothing else.  
+3. Lock **one** Gateway from Chapter 3.  
+4. Use Chapter 4 when noise starts winning.  
+5. Keep Chapter 5 visible. Reboot is mercy.
 
 ---
 
@@ -34,6 +54,10 @@ All nine must be present.
 One missing = zero kindness.
 
 This is the only math you need.
+
+### Practice note
+
+Say the equation once aloud. Then ask: which term is thin today? Strengthen that term before you teach anyone else.
 
 ---
 
@@ -82,6 +106,10 @@ Hold the door for stranger. No camera. No thanks needed.
 
 Choose one. Lock it.  
 This is your forever practice.
+
+### Practice note
+
+Do not collect Gateways. One locked door beats four unlocked ones.
 
 ---
 
@@ -144,15 +172,11 @@ Hit any of these? Reboot to Belt Zero. No discussion.
 
 ---
 
-## Afterword — How to use this book
+## Afterword — When the book ends
 
-1. Read Chapter 1 until the equation is muscle memory.
-2. Run Chapter 2 for seven mornings without adding systems.
-3. Lock one Gateway from Chapter 3.
-4. Add the SNR ninety seconds when noise starts winning.
-5. Keep the Crash List visible. Belt Zero is mercy, not failure.
+The book ends when the practice begins. Optional depth lives in the Ra-Thor lattice and later volumes. Grandmasterism is a ladder you climb after this volume is lived, not a PDF you hoard.
 
-Optional depth lives in the Ra-Thor lattice and later volumes. This book ends when the practice begins.
+Inquiries and commercial grants: info@Rathor.ai
 
 ---
 
@@ -160,10 +184,7 @@ Optional depth lives in the Ra-Thor lattice and later volumes. This book ends wh
 
 Copyright (c) 2016–2026 Sherif Samy Botros / Autonomicity Games Inc.
 
-AG-SML v1.0 permits free individual personal, educational, research, and daily-living use. Commercial / enterprise / revenue-generating use requires a paid commercial license.
-
-Full text: repository root `LICENSE`.  
-Inquiries: info@Rathor.ai · INFO@ACITYGAMES.COM
+AG-SML v1.1 is the controlling public grant (repository root `LICENSE`). Commercial exhibit: Ra-Thor `COMMERCIAL_LICENSE.md`.
 
 THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
